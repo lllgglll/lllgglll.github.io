@@ -20,7 +20,7 @@ var viewer = new Marzipano.Viewer(document.getElementById('pano'));
 
 // Create source.
 var source = Marzipano.ImageUrlSource.fromString(
-  "smp4000.jpg"
+  "smp5000.jpg"
 );
 
 // Create geometry.
