@@ -24,10 +24,10 @@ var source = Marzipano.ImageUrlSource.fromString(
 );
 
 // Create geometry.
-var geometry = new Marzipano.EquirectGeometry([{ width: 6144 }]);
+var geometry = new Marzipano.EquirectGeometry([{ width: 4000 }]);
 
 // Create view.
-var limiter = Marzipano.RectilinearView.limit.traditional(3072, 100*Math.PI/180);
+var limiter = Marzipano.RectilinearView.limit.traditional(1024, 100*Math.PI/180);
 var view = new Marzipano.RectilinearView({ yaw: Math.PI }, limiter);
 
 // Create scene.
