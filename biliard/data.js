@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-rotv14p",
-      "name": "ROTV14P",
+      "id": "0-rotv24p",
+      "name": "ROTV24P",
       "levels": [
         {
           "tileSize": 256,
@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 1536,
       "initialViewParameters": {
-        "yaw": 0.02982900797517729,
-        "pitch": -0.07294733969964362,
-        "fov": 0.8191152293480131
+        "yaw": -0.07156441022618765,
+        "pitch": 0.007079362036837011,
+        "fov": 1.088805881264579
       },
       "linkHotspots": [],
       "infoHotspots": []
