@@ -30,16 +30,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.6663512063634851,
-          "pitch": 0.23949369290988543,
-          "rotation": 0.7853981633974483,
-          "target": "2-3"
-        },
-        {
-          "yaw": -1.5088800776496107,
-          "pitch": 0.3201264179821699,
+          "yaw": -1.455374996181595,
+          "pitch": 0.2904814331529302,
           "rotation": 0,
           "target": "1-2"
+        },
+        {
+          "yaw": -0.6654714594235713,
+          "pitch": 0.23905636040023737,
+          "rotation": 0.7853981633974483,
+          "target": "2-3"
         }
       ],
       "infoHotspots": []
@@ -74,16 +74,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.3420574553167466,
-          "pitch": 0.22766315050394503,
-          "rotation": 0.7853981633974483,
-          "target": "2-3"
+          "yaw": 1.5756169219395177,
+          "pitch": 0.25185430323319125,
+          "rotation": 6.283185307179586,
+          "target": "0-1"
         },
         {
-          "yaw": 1.5324608987292088,
-          "pitch": 0.2630699035179429,
+          "yaw": 0.4123319143153381,
+          "pitch": 0.26094324119943124,
           "rotation": 0,
-          "target": "0-1"
+          "target": "2-3"
         }
       ],
       "infoHotspots": []
@@ -118,16 +118,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.8675188210428413,
-          "pitch": -0.08677929392081296,
-          "rotation": 5.497787143782138,
-          "target": "3-4"
-        },
-        {
-          "yaw": 1.8128411116753895,
-          "pitch": 0.3118785041607417,
+          "yaw": 1.8258255940708157,
+          "pitch": 0.2556711847216704,
           "rotation": 0,
           "target": "1-2"
+        },
+        {
+          "yaw": -0.8510788131076534,
+          "pitch": -0.0956835596892045,
+          "rotation": 5.497787143782138,
+          "target": "3-4"
         }
       ],
       "infoHotspots": []
@@ -162,8 +162,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.701445816840355,
-          "pitch": 0.5891371745045006,
+          "yaw": -0.32908252934512205,
+          "pitch": 0.4880881497017455,
           "rotation": 0.7853981633974483,
           "target": "2-3"
         }
@@ -175,7 +175,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
